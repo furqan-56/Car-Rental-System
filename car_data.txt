@@ -1,0 +1,10 @@
+Luxury BMW 110
+Luxury Buggati 115
+Luxury McLaren 98
+Luxury Mustang 75
+Economy Civic 65
+Economy Corolla 35
+Economy Cultus 30
+Economy Swift 45
+Economy Indus 50
+Luxury Lamborghini 150
